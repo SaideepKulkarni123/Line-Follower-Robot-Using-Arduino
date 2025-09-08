@@ -1,2 +1,3 @@
 # Line-Follower-Robot-Using-Arduino
 The Line Follower Robot is an autonomous mobile robot designed to follow a predefined path using infrared (IR) sensors. An Arduino Uno processes the sensor inputs and controls the movement of DC motors through an L293D motor driver. The robot detects the contrast between a black line and a white surface to make real-time navigation decisions. This project demonstrates applications in automation, robotics, and intelligent transport systems.
+.
